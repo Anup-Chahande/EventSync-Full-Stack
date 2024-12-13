@@ -1,0 +1,13 @@
+.nav-link {
+    color: #fff; /* Change text color */
+    transition: color 0.3s ease; /* Add transition */
+}
+
+.nav-link:hover {
+    background-color: #ff0180; /* Change color on hover */
+}
+
+.nav-link.active {
+    color: #ff33aa; /* Active link color */
+    font-weight: bold; /* Make it bold */
+}
